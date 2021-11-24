@@ -21,4 +21,4 @@ Design: [Serlokas] https://new-per.netlify.app/demo-3.html
 
 ## Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Ignas: [Github](https://github.com/ignasjj)
