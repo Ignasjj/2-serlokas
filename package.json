@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "live-server",
+    "dev": "live-server --port3000 --host=localhost",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Ignas",
-  "license": "ISC",
-  "description": "Pirmasis",
+  "license": "MIT",
+  "description": "Pirmasis dizaino projektas",
   "dependencies": {
     "live-server": "^1.2.1"
   }
